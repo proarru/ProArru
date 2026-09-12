@@ -1,6 +1,12 @@
+<div align="center">
 
-### 🌸 「 全集中の呼吸 — コードの呼吸 」
-### *"Total Concentration Breathing — Code Breathing"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00BFFF,100:FF1E56&height=200&section=header&text=ARUU&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚔️%20BOT%20SLAYER%20⚔️&descAlignY=58&descSize=20" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=40&duration=2500&pause=500&color=FF1E56&center=true&vCenter=true&width=700&height=80&lines=%E5%85%A8%E9%9B%86%E4%B8%AD%E3%83%BB%E5%B8%B8%E4%B8%AD;TOTAL+CONCENTRATION;CODE+BREATHING;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%91%BC%E5%90%B8" />
 
 </div>
 
@@ -8,88 +14,25 @@
 
 <div align="center">
 
-### 🔥 俺の物語 (My Story) 🔥
+### 「 壱ノ型 — 水の呼吸 」
+### *First Form — Water Breathing*
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-- ⚡ **Name:** Aruu
-- ⚔️ **Rank:** Bot Slayer (水柱 - Water Hashira)
-- 🐍 **Breathing Style:** Python Breathing
-- 🌐 **Second Style:** Web Breathing
-- 🤖 **Nichirin Blade:** Telegram Bots
-- 💀 **Demon Enemy:** Bugs & Errors
-- 🎯 **Mission:** Become the strongest coder
-- 📫 **Telegram:** [@proarru](https://t.me/proarru)
-
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="anime coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-## ⚔️ BATTLE STATS (Slayer Stats)
+### ⚔️ 俺の情報 — MY INFO
 
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUMHARA_USERNAME&show_icons=true&theme=radical&border_color=00BFFF&title_color=00BFFF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUMHARA_USERNAME&theme=radical&border=00BFFF&ring=00BFFF" height="165" />
-</p>
-
----
-
-<div align="center">
-
-## 🛠️ BREATHING STYLES (Skills)
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-## 🤖 MY CREATIONS (Slayer Missions)
-
-</div>
-
-<p align="center">
-
-| ⚔️ Mission | 💥 Breathing Technique |
-|:-----------:|:----------------------:|
-| 📥 File Store Bot | Water Breathing — Flow |
-| 🔍 Search Bot | Thunder Breathing — Speed |
-| 🎬 Media Downloader | Flame Breathing — Blaze |
-| 👥 Group Manager | Stone Breathing — Defense |
-| ⚙️ Automation Bot | Wind Breathing — Swift |
-
-</p>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT WITH THE SLAYER
-
-</div>
-
-<p align="center">
-  <a href="https://t.me/proarru"><img src="https://img.shields.io/badge/Telegram-@proarru-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:tumhara-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<div align="center">
+```yaml
+name: "Aruu"
+rank: "Bot Slayer"
+breathing: "Python Breathing"
+second_form: "Web Breathing"
+nichirin_blade: "Telegram Bots"
+demon: "Bugs & Errors"
+mission: "Become the strongest coder"
+telegram: "@proarru"
