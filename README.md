@@ -1,38 +1,64 @@
-<div align="center">
+<h1 align="center">Hey, I'm Aruu 👋</h1>
+<h3 align="center">Bot Developer • Python • Web</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00BFFF,100:FF1E56&height=200&section=header&text=ARUU&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚔️%20BOT%20SLAYER%20⚔️&descAlignY=58&descSize=20" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=40&duration=2500&pause=500&color=FF1E56&center=true&vCenter=true&width=700&height=80&lines=%E5%85%A8%E9%9B%86%E4%B8%AD%E3%83%BB%E5%B8%B8%E4%B8%AD;TOTAL+CONCENTRATION;CODE+BREATHING;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%91%BC%E5%90%B8" />
-
-</div>
+<p align="center">
+  <a href="https://t.me/proarru">
+    <img src="https://img.shields.io/badge/Telegram-@proarru-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 👨‍💻 About Me
 
-### 「 壱ノ型 — 水の呼吸 」
-### *First Form — Water Breathing*
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-
-</div>
+- 🤖 I build **Telegram Bots** with Python
+- 🐍 **Python** is my main language
+- 🌐 I also work on **Web Development**
+- 🚀 Always learning & building new things
 
 ---
 
-<img align="right" alt="anime coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+### 🛠️ Tech Stack
 
-### ⚔️ 俺の情報 — MY INFO
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mongodb,git,github,linux,vscode" />
+</p>
 
-```yaml
-name: "Aruu"
-rank: "Bot Slayer"
-breathing: "Python Breathing"
-second_form: "Web Breathing"
-nichirin_blade: "Telegram Bots"
-demon: "Bugs & Errors"
-mission: "Become the strongest coder"
-telegram: "@proarru"
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikharru99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikharru99&theme=github-dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikharru99&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🚀 What I Build
+
+- 📥 File Store Bots
+- 🔍 Search Bots
+- 🎬 Media Downloader Bots
+- 👥 Group Management Bots
+- ⚙️ Automation Tools
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://t.me/proarru">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by ⭐</i>
+</p>
