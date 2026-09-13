@@ -1,183 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D17,50:21104A,100:5B2EFF&height=220&section=header&text=PROARRU&fontSize=72&fontColor=FFFFFF&fontAlignY=45&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0714,50:24104F,100:6D28D9&height=230&section=header&text=PROARRU&fontSize=72&fontColor=FFFFFF&fontAlignY=45&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Developer+%7C+Builder+%7C+Creator;Python+%E2%80%A2+Web+%E2%80%A2+Automation;Turning+ideas+into+real+projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+ProArru+%F0%9F%91%8B;Learning+%E2%80%A2+Building+%E2%80%A2+Creating;Python+%7C+Web+Development+%7C+Automation;My+journey+starts+here+%F0%9F%9A%80"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/proarru">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D17?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<img src="https://img.shields.io/badge/INDIA-111111?style=for-the-badge&logo=googlemaps&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/India-0D0D17?style=for-the-badge&logo=googlemaps&logoColor=C4B5FD"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm ProArru
+## 👋 About Me
 
-I'm a developer who enjoys **building things from scratch**.
+Hey! I'm **ProArru** 👨‍💻
 
-I like experimenting with Python, web development, automation and creative UI — especially projects where I can turn an idea into something people can actually use.
+I'm currently exploring the world of programming and learning how to turn ideas into real projects.
 
-> **Build something interesting. Learn something new. Repeat.**
+I enjoy experimenting with **Python, web development, automation and UI design**.
 
----
-
-## ✦ What I'm Into
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Python
-
-Building tools, applications and automation with Python.
-
-</td>
-<td width="50%">
-
-### 🌐 Web Development
-
-Creating modern, responsive and interactive websites.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 Automation
-
-Making repetitive tasks simpler through code.
-
-</td>
-<td>
-
-### 🎨 Creative UI
-
-Experimenting with clean interfaces, animations and visual experiences.
-
-</td>
-</tr>
-</table>
+This GitHub profile is where I'm documenting my journey — from my **first lines of code to bigger projects**. 🚀
 
 ---
 
-## 🧰 Tech I Use
+## 🧠 Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark" />
+|         🌱 Learning        | 🎯 Goal                        |
+| :------------------------: | :----------------------------- |
+|          🐍 Python         | Build useful applications      |
+| 🌐 HTML / CSS / JavaScript | Create modern websites         |
+|        🤖 Automation       | Make repetitive work easier    |
+|       🧩 Git & GitHub      | Learn proper project workflows |
+|        🎨 UI Design        | Create better interfaces       |
 
 </div>
 
 ---
 
-# 🚀 Things I've Been Building
+## 🛠️ My Toolkit
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🤖 Automation
-
-Tools that make repetitive workflows faster and easier.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌐 Web Experiences
-
-Interactive websites with modern UI and animations.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🐍 Python Projects
-
-Experiments, utilities and applications built with Python.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🧪 New Ideas
-
-Trying new technologies and turning random ideas into projects.
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 GitHub
+## 🚧 Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=proarru&show_icons=true&hide_border=true&bg_color=0D0D17&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" width="49%"/>
+### 🔨 Nothing here... yet.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proarru&layout=compact&hide_border=true&bg_color=0D0D17&title_color=A78BFA&text_color=E5E7EB" width="40%"/>
-
-</div>
+I'm currently learning and preparing my first projects.
 
 <br>
 
-<div align="center">
+**First project loading...**
 
-<img src="https://streak-stats.demolab.com?user=proarru&hide_border=true&background=0D0D17&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/proarru/proarru/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-# 🌌 Beyond The Code
-
-<div align="center">
-
-**Curious mind.**
-
-**Builder at heart.**
-
-**Always experimenting.**
+`██████████████░░░░░░ 70%`
 
 <br>
 
-`CODE`　`CREATE`　`LEARN`　`REPEAT`
+🚀 **Watch this space.**
 
 </div>
 
 ---
 
+## 🎯 My Goals
+
+* 📚 Become better at programming
+* 🐍 Master Python
+* 🌐 Build modern websites
+* 🤖 Create useful automation
+* 🚀 Publish my first proper project
+* 💡 Turn ideas into real applications
+
+---
+
+## 📈 My GitHub Journey
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=proarru&show_icons=true&hide_border=true&bg_color=0B0714&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proarru&layout=compact&hide_border=true&bg_color=0B0714&title_color=C4B5FD&text_color=E5E7EB" width="40%"/>
+
+</div>
+
+---
+
+## 🌌 A Little About My Journey
+
+<div align="center">
+
+**START** 🟣
+
+↓
+
+📖 Learn
+
+↓
+
+💻 Code
+
+↓
+
+🧪 Experiment
+
+↓
+
+🚀 Build
+
+↓
+
+✨ Improve
+
+↓
+
+**REPEAT**
+
+</div>
+
+---
+
+## 💜 Thanks For Visiting
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=Every+developer+starts+somewhere.;This+is+my+starting+point.+%F0%9F%9A%80"/>
+
+<br><br>
 
 <a href="https://github.com/proarru?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-5B2EFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2EFF,50:21104A,100:0D0D17&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:24104F,100:0B0714&height=130&section=footer"/>
 
 </div>
