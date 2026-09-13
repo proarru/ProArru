@@ -1,127 +1,93 @@
 <div align="center">
 
-# 👋 Hey, I'm **ProArru**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PROARRU&fontSize=70&color=0:00F7FF,100:8A2BE2&stroke=00F7FF&strokeWidth=2&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+PROARRU+%F0%9F%91%8B;PYTHON+DEVELOPER+%F0%9F%90%8D;AUTOMATION+%7C+BOTS+%7C+WEB;TURNING+IDEAS+INTO+CODE+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=header&text=PROARRU&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-ProArru-111111?style=for-the-badge\&logo=github)](https://github.com/proarru)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧬 `whoami`
 
-```python
-class ProArru:
+> 👋 Hi! I'm **ProArru**, a developer from India 🇮🇳
+> I enjoy creating **Python projects, automation tools, bots and websites**.
 
-    name = "ProArru"
-    role = "Developer"
-    location = "India 🇮🇳"
-
-    interests = [
-        "Python",
-        "Web Development",
-        "Automation",
-        "Bots",
-        "UI/UX",
-        "Open Source"
-    ]
-
-    currently_learning = [
-        "Advanced Python",
-        "Web Development",
-        "AI"
-    ]
-
-    motto = "Build. Break. Learn. Repeat. 🚀"
+```text
+╭──────────────────────────────────────╮
+│              PROARRU                 │
+├──────────────────────────────────────┤
+│ 🐍 Python       → Development        │
+│ 🤖 Automation   → Bots & Tools       │
+│ 🌐 Web          → Websites           │
+│ 🎨 UI           → Interactive Design │
+│ 🚀 Goal         → BUILD SOMETHING!   │
+╰──────────────────────────────────────╯
 ```
 
 ---
 
-## ⚡ Tech Stack
+# ⚙️ `TECH_STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## 🚀 What I Do
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-### 🐍
-
-**Python**
-
-Automation & powerful applications
-
-</td>
-
-<td align="center" width="200">
-
-### 🌐
-
-**Web**
-
-Modern websites & interfaces
-
-</td>
-
-<td align="center" width="200">
-
-### 🤖
-
-**Bots**
-
-Smart automation projects
-
-</td>
-
-<td align="center" width="200">
-
-### 🎨
-
-**UI/UX**
-
-Clean & interactive designs
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+# 🚀 `PROJECTS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=proarru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+### 🤖 Automation
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proarru&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+**Building tools that automate boring tasks.**
+
+### 🌐 Web Development
+
+**Creating modern and interactive websites.**
+
+### 🐍 Python
+
+**Turning ideas into useful applications.**
+
+### 🎮 Experiments
+
+**Trying new technologies and crazy ideas.**
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 📈 `GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=proarru&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=proarru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=8A2BE2" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proarru&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF" width="40%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 `STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=proarru&theme=transparent&hide_border=true&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_MATRIX`
 
 <div align="center">
 
@@ -131,38 +97,44 @@ Clean & interactive designs
 
 ---
 
-## 🚀 Featured Projects
+# 💻 `CURRENT_STATUS`
 
-<div align="center">
+```text
+[████████████████████] 100%
 
-| Project                    | Description                 |
-| -------------------------- | --------------------------- |
-| 🤖 **Automation Projects** | Smart Python automation     |
-| 🌐 **Web Projects**        | Interactive web experiences |
-| 🐍 **Python Projects**     | Useful tools & applications |
-
-</div>
+SYSTEM STATUS
+──────────────
+> Coding............. ONLINE
+> Learning........... ONLINE
+> Building........... ONLINE
+> Creativity......... ONLINE
+> Sleep.............. ERROR 😭
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 `CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/proarru">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💫 *"Code is not just something I write — it's something I create."*
+```text
+╔══════════════════════════════════════╗
+║   BUILD • LEARN • CREATE • REPEAT   ║
+╚══════════════════════════════════════╝
+```
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F7FF&height=100&section=footer" width="100%"/>
+### ⚡ *Made with code & curiosity.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
