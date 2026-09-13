@@ -1,161 +1,109 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROARRU - PROFILE README                  -->
-<!--                  Full-Stack Developer & Innovator            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# ProArru - Animated Portfolio
 
-<div align="center">
+A modern, beautiful, and fully animated portfolio website built with React, Framer Motion, and Tailwind CSS.
 
-# ⚡ ProArru - Full Stack Developer ⚡
+## Features
 
-### Building Powerful Solutions | Open Source Contributor | Tech Enthusiast
+✨ **Beautiful Animations** - Smooth scroll animations and interactive elements using Framer Motion
+🎨 **Modern Design** - Glassmorphism effects and gradient backgrounds
+📱 **Fully Responsive** - Perfect on desktop, tablet, and mobile devices
+🔍 **Project Filtering** - Filter projects by category (Frontend, Backend, Full Stack, Mobile)
+⚡ **High Performance** - Optimized for speed and smooth interactions
+🌙 **Dark Theme** - Eye-friendly dark mode design
 
-[![GitHub followers](https://img.shields.io/github/followers/proarru?style=for-the-badge&logo=github&logoColor=white&color=FFD700)](https://github.com/proarru)
-[![X Follow](https://img.shields.io/twitter/follow/proarru?style=for-the-badge&logo=x&color=000000)](https://twitter.com/proarru)
-[![Email](https://img.shields.io/badge/Email-shaikharru99@gmail.com-FFD700?style=for-the-badge&logo=gmail)](mailto:shaikharru99@gmail.com)
+## Components
 
-</div>
+- **Navbar** - Sticky navigation with mobile menu
+- **Hero** - Eye-catching landing section with call-to-action buttons
+- **About** - Professional introduction with stats
+- **Projects** - Filterable project showcase with hover effects
+- **Skills** - Categorized skills with interactive elements
+- **Contact** - Contact form with validation
+- **Footer** - Social links and quick navigation
 
----
+## Tech Stack
 
-## 🚀 About Me
+- **React** - UI framework
+- **Framer Motion** - Animation library
+- **React Icons** - Icon library
+- **CSS3** - Custom styling with animations
+- **JavaScript ES6+** - Modern JavaScript
 
-Hey! I'm **Arru** (ProArru), a passionate **Full-Stack Developer** with expertise in:
+## Getting Started
 
-- 🐍 **Python** - Telegram Bots, Automation, Data Processing
-- 🌐 **Web Development** - React, JavaScript, Modern Frontend
-- 📱 **Backend Engineering** - REST APIs, Databases, Scalability
-- 🤖 **Bot Development** - Telegram Bots, Discord Bots, Automation
-- ☁️ **Cloud & DevOps** - Deployment, CI/CD, Server Management
-- 💾 **Database Design** - MongoDB, PostgreSQL, Redis
+### Prerequisites
 
-I love building automation tools, Telegram bots, and scalable applications that solve real-world problems.
+- Node.js (v14 or higher)
+- npm or yarn
 
----
+### Installation
 
-## 💼 Featured Projects
+1. Clone the repository
+```bash
+git clone https://github.com/proarru/ProArru.git
+cd ProArru
+```
 
-### 🤖 [Live1VPSBot](https://github.com/proarru/live1vpsbot)
-An advanced Telegram bot for group/channel management with voice call automation.
+2. Install dependencies
+```bash
+npm install
+```
 
-**Tech Stack:** Python, Telethon, PyTgCalls, MongoDB, Asyncio
-- ⭐ Group/Channel Management
-- 📞 Voice Call Automation
-- 🎯 Emoji Reactions & Interactive Keyboards
-- 💾 MongoDB Integration
-- 🔐 Admin & Role-Based Access
+3. Start the development server
+```bash
+npm start
+```
 
-### 📊 More Projects Coming Soon...
-Exploring bot development, API creation, and automation solutions!
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
----
+## Available Scripts
 
-## 🛠️ Tech Stack
+### `npm start`
+Runs the app in development mode.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### `npm build`
+Builds the app for production.
 
-### Frameworks & Libraries
-![Telethon](https://img.shields.io/badge/Telethon-FFD700?style=for-the-badge&logo=telegram)
-![PyTgCalls](https://img.shields.io/badge/PyTgCalls-26A5E4?style=for-the-badge&logo=telegram)
-![Asyncio](https://img.shields.io/badge/Asyncio-FFD700?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### `npm test`
+Launches the test runner.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+## Customization
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Colors
+Edit the CSS variables in `src/index.css`:
+```css
+:root {
+  --primary: #0f172a;
+  --secondary: #1e293b;
+  --accent: #3b82f6;
+  --accent-light: #60a5fa;
+  --text: #f1f5f9;
+  --text-muted: #cbd5e1;
+  --border: #334155;
+}
+```
 
----
+### Add Your Content
+- Update the `Hero` component with your name and bio
+- Add your projects in the `Projects` component
+- Update skills in the `Skills` component
+- Add your social media links in `Footer` and `Hero`
 
-## 📈 GitHub Statistics
+## Deployment
 
-<div align="center">
+The portfolio can be deployed to various platforms:
 
-![ProArru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=proarru&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700)
+- **Vercel** - Recommended for React apps
+- **Netlify** - Easy deployment with CLI
+- **GitHub Pages** - Free hosting
+- **AWS S3 + CloudFront** - Professional hosting
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=proarru&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700)
+## License
 
-</div>
+MIT License - feel free to use this portfolio template for your own projects
 
----
+## Contact
 
-## 🎯 Current Focus
+ProArru - [@ProArru](https://github.com/proarru)
 
-- 🔨 Building robust Telegram bot solutions
-- 📚 Learning advanced async patterns in Python
-- 🌐 Exploring cloud deployment strategies
-- 🤝 Contributing to open-source projects
-- 💡 Developing innovative automation tools
-
----
-
-## 💬 Let's Connect
-
-I'm always interested in:
-- Collaborating on interesting projects
-- Discussing tech & innovation
-- Contributing to open-source
-- Mentoring & learning together
-
-### 📞 Contact
-
-- **Email:** [shaikharru99@gmail.com](mailto:shaikharru99@gmail.com)
-- **GitHub:** [@proarru](https://github.com/proarru)
-- **Telegram:** [ProArru](https://t.me/ProArru)
-
----
-
-## 🎓 Learning Resources
-
-I regularly explore:
-- Advanced Python & Asyncio patterns
-- Telegram Bot Development
-- System Design & Architecture
-- Cloud Technologies
-- Modern Web Development
-
----
-
-## 📝 Recent Activity
-
-Check my repositories for:
-- Active development projects
-- Telegram bot implementations
-- Automation scripts
-- API solutions
-- Learning experiments
-
----
-
-<div align="center">
-
-### 🌟 If you find my work interesting, consider giving it a ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=proarru/live1vpsbot&type=Date)](https://star-history.com/#proarru/live1vpsbot&Date)
-
-</div>
-
----
-
-<div align="center">
-
-### Made with ❤️ by ProArru
-
-**"Code is poetry, and I love writing it!"** ✨
-
-*Last Updated: September 2026*
-
-</div>
-
-<!-- Snake Animation -->
-[![ProArru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proarru&theme=dark-dimmed&bg_color=0d1117&color=FFD700&line=FFD700&point=FFA500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Project Link: [https://github.com/proarru/ProArru](https://github.com/proarru/ProArru)
